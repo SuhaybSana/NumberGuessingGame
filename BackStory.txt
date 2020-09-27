@@ -1,0 +1,5 @@
+I just started programming 3 weeks ago and im happy to say i'v just completed 
+my first project. This is intirely in python and I know its not the best way 
+to program this game but this is made from everything I know. If you have any 
+suggestions for this game please dont be afraid to inform me of them because
+im always looking to learn more.
